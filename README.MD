@@ -36,7 +36,7 @@ Untuk menjalankan proyek ini secara lokal, ikuti langkah-langkah berikut:
 1. **Kloning Repositori**:
 
    ```
-   git clone https://github.com/kevinwahyu/smk-cerme-website.git
+   git clone https://github.com/kevinwahyu/web3.git
    cd smk-cerme-website
    ```
 
