@@ -66,7 +66,7 @@ Untuk menjalankan proyek ini secara lokal, ikuti langkah-langkah berikut:
 
 ## Lisensi
 
-Proyek ini dilisensikan di bawah [KevinWahyu](LICENSE). Anda bebas menggunakan, memodifikasi, dan mendistribusikan kode ini dengan syarat menyertakan atribusi asli.
+Proyek ini dilisensikan di bawah [kevinwahyu]. Anda bebas menggunakan, memodifikasi, dan mendistribusikan kode ini dengan syarat menyertakan atribusi asli.
 
 ---
 
