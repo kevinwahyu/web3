@@ -68,17 +68,6 @@ Untuk menjalankan proyek ini secara lokal, ikuti langkah-langkah berikut:
 
 Proyek ini dilisensikan di bawah [KevinWahyu](LICENSE). Anda bebas menggunakan, memodifikasi, dan mendistribusikan kode ini dengan syarat menyertakan atribusi asli.
 
-## Kontribusi
-
-Kontribusi sangat diterima! Jika Anda ingin berkontribusi:
-
-1. Fork repositori ini.
-2. Buat branch baru untuk fitur atau perbaikan Anda.
-3. Lakukan commit perubahan.
-4. Buat pull request dengan deskripsi yang jelas.
-
-Untuk pertanyaan atau dukungan, silakan hubungi tim pengembang melalui email di lorem@gmail.com.
-
 ---
 
 **Catatan**: Pastikan untuk mengganti placeholder API keys dengan keys yang valid sebelum men-deploy situs ke production untuk menghindari error. Jika Anda mengalami masalah dengan integrasi API, periksa dokumentasi resmi Google untuk panduan lebih lanjut.
