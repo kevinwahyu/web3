@@ -1,6 +1,6 @@
 ## Deskripsi
 
-Proyek ini adalah situs web resmi untuk SMK Negeri 1 Cerme, sebuah sekolah menengah kejuruan di Indonesia. Situs web ini dirancang untuk memberikan informasi lengkap tentang sekolah, termasuk program akademik, berita terkini, galeri, staf, dan informasi kontak. Dengan antarmuka yang responsif dan modern, situs ini memanfaatkan teknologi web terkini untuk memastikan pengalaman pengguna yang optimal di berbagai perangkat.
+Proyek ini adalah situs modifikasi untuk SMK Negeri 1 Cerme, sebuah sekolah menengah kejuruan di Indonesia. Situs web ini dirancang untuk memberikan informasi lengkap tentang sekolah, termasuk program akademik, berita terkini, galeri, staf, dan informasi kontak. Dengan antarmuka yang responsif dan modern, situs ini memanfaatkan teknologi web terkini untuk memastikan pengalaman pengguna yang optimal di berbagai perangkat.
 
 Situs web ini mencakup beberapa halaman utama:
 
