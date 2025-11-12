@@ -1,6 +1,6 @@
 ## Deskripsi
 
-Proyek ini adalah situs web resmi untuk SMK Negeri 1 Cerme, sebuah sekolah menengah kejuruan di Indonesia. Situs web ini dirancang untuk memberikan informasi lengkap tentang sekolah, termasuk program akademik, berita terkini, galeri, staf, dan informasi kontak. Dengan antarmuka yang responsif dan modern, situs ini memanfaatkan teknologi web terkini untuk memastikan pengalaman pengguna yang optimal di berbagai perangkat.
+Proyek ini adalah situs modifikasi untuk SMK Negeri 1 Cerme, sebuah sekolah menengah kejuruan di Indonesia. Situs web ini dirancang untuk memberikan informasi lengkap tentang sekolah, termasuk program akademik, berita terkini, galeri, staf, dan informasi kontak. Dengan antarmuka yang responsif dan modern, situs ini memanfaatkan teknologi web terkini untuk memastikan pengalaman pengguna yang optimal di berbagai perangkat.
 
 Situs web ini mencakup beberapa halaman utama:
 
@@ -36,7 +36,7 @@ Untuk menjalankan proyek ini secara lokal, ikuti langkah-langkah berikut:
 1. **Kloning Repositori**:
 
    ```
-   git clone https://github.com/kevinwahyu/smk-cerme-website.git
+   git clone https://github.com/kevinwahyu/web3.git
    cd smk-cerme-website
    ```
 
@@ -66,18 +66,7 @@ Untuk menjalankan proyek ini secara lokal, ikuti langkah-langkah berikut:
 
 ## Lisensi
 
-Proyek ini dilisensikan di bawah [KevinWahyu](LICENSE). Anda bebas menggunakan, memodifikasi, dan mendistribusikan kode ini dengan syarat menyertakan atribusi asli.
-
-## Kontribusi
-
-Kontribusi sangat diterima! Jika Anda ingin berkontribusi:
-
-1. Fork repositori ini.
-2. Buat branch baru untuk fitur atau perbaikan Anda.
-3. Lakukan commit perubahan.
-4. Buat pull request dengan deskripsi yang jelas.
-
-Untuk pertanyaan atau dukungan, silakan hubungi tim pengembang melalui email di lorem@gmail.com.
+Proyek ini dilisensikan di bawah KevinWahyu. Anda bebas menggunakan, memodifikasi, dan mendistribusikan kode ini dengan syarat menyertakan atribusi asli.
 
 ---
 

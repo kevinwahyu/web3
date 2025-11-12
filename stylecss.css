@@ -131,3 +131,25 @@ footer {
   background: #2563eb;
   color: white;
 }
+
+/* Laptop */
+@media (max-width: 1366px) {
+  .gambar {
+    width: 300px;
+    transition: 0.01s;
+  }
+}
+
+/* Tablet */
+@media (max-width: 758px) {
+  .gambar {
+    width: 200px;
+  }
+}
+
+/* HP */
+@media (max-width: 450px) {
+  .gambar {
+    width: 150px;
+  }
+}
